@@ -11,9 +11,8 @@
 [![Chapters](https://img.shields.io/badge/Chapters-24-6495ED)](chapters/)
 [![Source Pages](https://img.shields.io/badge/Source%20Pages-2000+-808080)](books/)
 
-| <img src="image1.png" width="400"/> |
-| :--------------------------------: |
-| <img src="image2.png" width="300"/> |
+ <img src="image1.png" width="400"/> 
+ <img src="image2.png" width="300"/> 
 
 **蒸馏李宏毅 + 李沐两门经典深度学习课程，构建从入门到进阶的完整知识体系**
 
