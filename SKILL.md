@@ -1,5 +1,5 @@
 ---
-name: DeepLearning-Beginner-Skill
+name: dl-skill
 description: 深度学习新手入门知识库 — 整合李宏毅(LeeDL)和李沐(d2l)两本教材,覆盖从ML基础到ChatGPT/扩散/强化学习/视觉RL的24章。提供框架速查、代码模板、故障决策树和概念检索
 ---
 
