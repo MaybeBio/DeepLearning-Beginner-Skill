@@ -154,16 +154,17 @@
 ### 安装
 
 ```bash
-# 方式 1: 使用 npx（推荐）
-npx skills add MaybeBio/DeepLearning-Beginner-Skill -a claude-code
+# 方式 1: 手动克隆（推荐）
+# dl-skill即skill名
+git clone https://github.com/MaybeBio/DeepLearning-Beginner-Skill ~/.claude/skills/dl-skill
 
-# 方式 2: 手动克隆
-git clone https://github.com/MaybeBio/DeepLearning-Beginner-Skill ~/.claude/skills/
+# 方式 2: 使用 npx
+npx skills add MaybeBio/DeepLearning-Beginner-Skill -a claude-code
 ```
 
 ### 在 Claude Code 中调用
 
-Skill 加载后，可直接在对话中查询或手动触发 `/DeepLearning-Beginner-Skill`：
+Skill 加载后，可直接在对话中查询或手动触发 `/dl-skill`：
 
 ```
 ▸ 什么是 Batch Normalization？它为什么有效？
